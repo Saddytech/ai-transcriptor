@@ -1,8 +1,11 @@
 ffmpeg-python
-noisereduce
-numpy
-psutil
-pysrt
 torch
-vosk
+numpy
 whisper
+vosk
+pysrt
+psutil
+noisereduce
+tkinter
+docx
+configparser
