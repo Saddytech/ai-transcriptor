@@ -84,7 +84,3 @@ This application provides a graphical user interface for transcribing video file
 ## Contributing
 
 Contributions to the AI Video Transcriber are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
