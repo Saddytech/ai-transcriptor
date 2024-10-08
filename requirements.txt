@@ -1,0 +1,8 @@
+ffmpeg-python
+noisereduce
+numpy
+psutil
+pysrt
+torch
+vosk
+whisper
